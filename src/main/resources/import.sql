@@ -28,3 +28,14 @@ INSERT INTO farmers (name, village, mobile) VALUES ('Nagaraj', 'Hassan', '984509
 INSERT INTO farmers (name, village, mobile) VALUES ('Basavaraj', 'Davangere', '9535123456');
 INSERT INTO farmers (name, village, mobile) VALUES ('Krishnappa', 'Koppal', '9900887766');
 INSERT INTO farmers (name, village, mobile) VALUES ('Venkatesh', 'Bellary', '9797979797');
+
+INSERT INTO inventory (batch_no, quantity, product_id) VALUES ('BATCH-001', 100, 1);
+INSERT INTO inventory (batch_no, quantity, product_id) VALUES ('BATCH-002', 150, 1);
+INSERT INTO inventory (batch_no, quantity, product_id) VALUES ('BATCH-003', 200, 2);
+INSERT INTO inventory (batch_no, quantity, product_id) VALUES ('BATCH-004', 75, 2);
+INSERT INTO inventory (batch_no, quantity, product_id) VALUES ('BATCH-005', 300, 3);
+INSERT INTO inventory (batch_no, quantity, product_id) VALUES ('BATCH-006', 50, 3);
+INSERT INTO inventory (batch_no, quantity, product_id) VALUES ('BATCH-007', 125, 4);
+INSERT INTO inventory (batch_no, quantity, product_id) VALUES ('BATCH-008', 180, 4);
+INSERT INTO inventory (batch_no, quantity, product_id) VALUES ('BATCH-009', 90, 5);
+INSERT INTO inventory (batch_no, quantity, product_id) VALUES ('BATCH-010', 220, 5);
